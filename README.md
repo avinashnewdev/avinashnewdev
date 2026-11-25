@@ -1,6 +1,6 @@
 <!-- Profile banner -->
 <p align="center">
-  <img src="assets/avinash-banner.webp" alt="Avinash New Dev — Python, JavaScript, C++, HTML and Git" width="100%">
+  <img src="assets/avinash-banner.webp" alt="Avinash New Dev — Python, JavaScript, C++, HTML and Git" width="100%" style="border-radius: 18px;">
 </p>
 
 <h1 align="center">Hi, I'm Avinash Jadhav 👋</h1>
